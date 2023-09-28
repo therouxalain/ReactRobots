@@ -1,0 +1,18 @@
+{
+  "robots": [
+    {
+      "id": 5,
+      "text": "Mr Roboto",
+      "carac": "Voit bien la nuit",
+      "valeur": "3332$",
+      "solaire": true
+    },
+    {
+      "id": 8,
+      "text": "Sr Robôs",
+      "carac": "brasil!",
+      "valeur": "10000$",
+      "solaire": true
+    }
+  ]
+}
